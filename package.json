@@ -6,6 +6,9 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
+    "node-telegram-bot-api": "^0.61.0",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.4.5",
+    "moment-timezone": "^0.5.45"
   }
 }
